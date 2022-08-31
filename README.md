@@ -1,7 +1,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello70825)](https://solved.ac/hello70825/) </p>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hello70825)](https://hello70825.tistory.com/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=70825&layout=compact&theme=tokyonight) </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=70825&show_icons=true&theme=radical) </p>
 <!--
 
 **70825/70825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
