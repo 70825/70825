@@ -2,6 +2,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello70825)](https://solved.ac/hello70825/) </p>
 
+<br/>
+
+[![Resume](https://img.shields.io/badge/RESUME-blue?style=flat&logo=notion&logoColor=white&link=https://70825.notion.site/98d5c0a57eeb4473bd59575a9aa52180?pvs=4)](https://70825.notion.site/98d5c0a57eeb4473bd59575a9aa52180?pvs=4)
+
 </div>
 
 
